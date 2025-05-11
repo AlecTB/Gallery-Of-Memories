@@ -42,8 +42,8 @@ Dentro de esta galería encontrarás cuadros con ***fotografías***, ***videos**
       ✨ 𝓜𝓲𝓼 𝓻𝓮𝓬𝓾𝓮𝓻𝓭𝓸𝓼 𝓼𝓸𝓷 𝓽𝓾𝔂𝓸𝓼. ✨
 
 ```
-Este proyecto no busca ser solo una aplicación, sino una puerta invisible a un espacio íntimo construido con momentos, con cariño, y con una intención muy clara:
->🌹 Que siempre recuerdes que eres importante.
+Este proyecto no busca ser solo una aplicación, sino una puerta invisible a un espacio íntimo construido con recuerdos de momentos unicos, con la intención de:
+>🌹 Que siempre recuerdes lo importante que eres.
 🌠 Que aún cuando todo parezca incierto, aquí tienes un lugar donde te esperan memorias que no se desvanecen ni en el tiempo.
 📸 Que cada cuadro, cada mensaje, es un abrazo disfrazado de imagen.
 
